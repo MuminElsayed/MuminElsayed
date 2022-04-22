@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuminElsayed
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Machine Learning, Crypto
+- 👀 I’m interested in Game Dev, Machine Learning, and VR.
+- 🌱 I’m currently learning Machine Learning & blockchain.
 - 💞️ I’m looking to collaborate on building fun games!
 - 📫 Reach me on muminelsayed@gmail.com
 
