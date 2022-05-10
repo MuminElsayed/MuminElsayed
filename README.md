@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuminElsayed
 - 👀 I’m interested in Game Dev, Machine Learning, and VR.
-- 🌱 I’m currently learning Multiplayer & Procedural Generation.
+- 🌱 I’m currently learning PhotonEngine & Procedural Generation.
 - 💞️ I’m looking to collaborate on building fun games!
 - 📫 Reach me on muminelsayed@gmail.com
 - My Github is currently a WIP, I will be moving all my project scripts from the cloud to here.
